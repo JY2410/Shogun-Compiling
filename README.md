@@ -1,7 +1,7 @@
 # Manully Compiling Shogun Toolbox with Python on Ubuntu 
 
 ## Preparation
-The workflow is based on [Ubuntu 18.04 LTS](https://ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64). The Username is assumed to be 'xxx'.
+This workflow is based on [Ubuntu 18.04 LTS](https://ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64). The Username is assumed to be 'xxx'.
 
 Install `make` for compiling
 
