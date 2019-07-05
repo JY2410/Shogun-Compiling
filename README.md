@@ -103,8 +103,8 @@ Configure cmake, from the build directory, passing the Shogun source root as arg
           -DPYTHON_EXECUTABLE:FILEPATH=/usr/bin/python3\
           -DPYTHON_PACKAGES_PATH=/usr/local/lib/python3.6/dist-packages\
           -DINTERFACE_PYTHON=ON\
-          -DBUILD_META_EXAMPLES=OFF\
-          -DUSE_SVMLIGHT=ON
+          -DUSE_SVMLIGHT=ON\
+          -DBUILD_META_EXAMPLES=OFF
 
 Compile
 
