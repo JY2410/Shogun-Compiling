@@ -124,7 +124,7 @@ To import Shogun in python, `shogun.py` and library `libshogun.so` need to be vi
 
 ## Generating examples
 
-If your need generated example code. Install required packages `ply` and `ctags`
+If you need generating example codes. Install required packages `ply` and `ctags` firstly
 
     sudo apt-get install python3-ply
     sudo apt-get install ctags
