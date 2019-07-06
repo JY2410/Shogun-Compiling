@@ -120,3 +120,15 @@ To import Shogun in python, `shogun.py` and library `libshogun.so` need to be vi
 
     export PYTHONPATH=/home/xxx/shogun/build/src/interfaces/python/:$PYTHONPATH
     export LD_LIBRARY_PATH=/home/xxx/shogun/build/src/shogun/:$LD_LIBRARY_PATH
+
+
+## Generating examples
+
+If your need generated example code. Install required packages `ply` and `ctags`
+
+    sudo apt-get install python3-ply
+    sudo apt-get install ctags
+    
+In the `build/` directory
+
+    cmake 
