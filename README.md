@@ -114,7 +114,7 @@ Install
 
     (sudo) make install
     
-The installation is done if `shogun.py` appears in `/home/xxx/shogun/build/src/interfaces/python/`.
+The installation is all set if `shogun.py` appears in `/home/xxx/shogun/build/src/interfaces/python/`.
 
 To import Shogun in python, `shogun.py` and library `libshogun.so` need to be visibal to the system. Add path to .bashrc
 
