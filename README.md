@@ -131,7 +131,7 @@ If you need generate example codes. Install required packages `ply` and `ctags` 
     
 Then in the `build/` directory
 
-    cmake /home/xxx/shogun\ -DBUILD_META_EXAMPLES=ON
+    cmake /home/xxx/shogun -DBUILD_META_EXAMPLES=ON
     make meta_examples
 
 The .py example files will appear in `/home/xxx/shogun/build/examples/meta/python` 
